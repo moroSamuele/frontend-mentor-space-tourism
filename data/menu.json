@@ -1,0 +1,23 @@
+{
+    "menu": [
+        {
+            "name": "Home",
+            "link": "/"
+        },
+        {
+            "name": "Destination",
+            "link": "/destination",
+            "title": "Pick your destination"
+        },
+        {
+            "name": "Crew",
+            "link": "/crew",
+            "title": "Meet your crew"
+        },
+        {
+            "name": "Technology",
+            "link": "/technology",
+            "title": "Space Launch 101"
+        }
+    ]
+}
